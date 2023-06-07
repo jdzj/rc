@@ -11,13 +11,13 @@ function showLocale(objD)
     var ww = objD.getDay();  
     if  ( ww==0 )  colorhead="<font color=\"white\">";  
     if  ( ww > 0 && ww < 7 )  colorhead="<font color=\"white\">";  
-    if  (ww==0)  ww="SUN Happy weekend";  
-    if  (ww==1)  ww="MON wechat:83905029";  
-    if  (ww==2)  ww="TUE wechat:83905029";  
-    if  (ww==3)  ww="WED wechat:83905029";  
-    if  (ww==4)  ww="THU wechat:83905029";  
-    if  (ww==5)  ww="FRI wechat:83905029";  
-    if  (ww==6)  ww="SAT Have a nice day";  
+    if  (ww==0)  ww="SUN Good luck";  
+    if  (ww==1)  ww="MON vx:83905029";  
+    if  (ww==2)  ww="TUE vx:83905029";  
+    if  (ww==3)  ww="WED vx:83905029";  
+    if  (ww==4)  ww="THU vx:83905029";  
+    if  (ww==5)  ww="FRI vx:83905029";  
+    if  (ww==6)  ww="SAT Nice day";  
     colorfoot="</font>"  
     if (useAm == 0) {
     	str = colorhead + "<span class=\"thin\">" + hh + ":"  + mm + ":" + ss + "</span>"+ "<br>" + ww  + "  " + colorfoot;
