@@ -14,7 +14,7 @@ function showLocale(objD)
     if  (ww==0)  ww="SUN Good luck";  
     if  (ww==1)  ww="MON vx:83905029";  
     if  (ww==2)  ww="TUE vx:83905029";  
-    if  (ww==3)  ww="WED \r vx:83905029" ok;  
+    if  (ww==3)  ww="WED vx:83905029";  
     if  (ww==4)  ww="THU vx:83905029";  
     if  (ww==5)  ww="FRI vx:83905029";  
     if  (ww==6)  ww="SAT Nice day";  
